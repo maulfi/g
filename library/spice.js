@@ -55,4 +55,4 @@ let request_ws = (options) => new Promise((resolve, reject) => {
 })
 
 module.exports.create_session = create_session
-require('make-runnable')
+// require('make-runnable')
