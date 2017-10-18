@@ -1,0 +1,30 @@
+{
+  "name": "g-project",
+  "version": "0.0.1",
+  "description": "g is g",
+  "main": "server.js",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "express": "^4.16.2",
+    "make-runnable": "^1.3.6",
+    "request": "^2.83.0",
+    "require": "^2.4.20"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maulfi/g.git"
+  },
+  "keywords": [
+    "g"
+  ],
+  "author": "g",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/maulfi/g/issues"
+  },
+  "homepage": "https://github.com/maulfi/g#readme"
+}
